@@ -41,7 +41,7 @@ The technologies utilized in this project include:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/hrithik-naik/DiabeticRetinopathy.git
+   https://github.com/sarveshrastogi1/Diabetic_Retinopathy.git
    cd DiabeticRetinopathy
 2. **Virtual Environment Setup**:
   ```bash
